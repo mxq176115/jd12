@@ -28,7 +28,7 @@ auto_raise_level = True
 
 
 cookies = [
-    #'pt_key=xxxx; pt_pin=xxxx;',
+    #'wskey=AAJjbQzAAEC3tdUb7tHWb1H-yEz458UcWw6ZWkbM9qbDUAzwSz9RtiuOGSFNJCuBZA1tGZ-3z6fWpHxHizl5iECLysf-Lf99',
 ]
 
 class Logger(object):
